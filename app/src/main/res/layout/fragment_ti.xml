@@ -1,0 +1,43 @@
+    <android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/card_view"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="380dp"
+        android:layout_margin="8dp"
+        tools:context="egaakakom.gmail.com.akakomstmik.TiFragment">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/thumbnail"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:layout_alignParentTop="true"
+                android:scaleType="centerCrop"
+                android:src="@drawable/akakom" />
+
+            <TextView
+                android:id="@+id/title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/thumbnail"
+                android:maxLines="20"
+                android:padding="8dp"
+                android:text="@string/title_ti"
+                android:textColor="#222"
+                android:textStyle="bold"
+                android:textSize="22dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/title"
+                android:padding="8dp"
+                android:text="@string/description_ti"
+                android:textColor="#666"
+                android:textSize="14dp" />
+
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>

@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">AKAKOM STMIK</string>
+	
+	<string name="title_ti">Teknik Informatika</string>
+	<string name="description_ti">Program Studi Teknik Informatika (PSTI) merupakan salah satu cabang dari pohon ilmu Informatika dan Komputer, 
+									yang turut mengembangkan bidang ilmu teknologi informasi. Adapun penekanannya pada aspek penyimpanan, pengolahan, dan penyampaian informasi 
+									secara algoritmik dengan bantuan komputer. Tiga (3) paradigma yang digunakan adalah: paradigma teori, paradigma abstraksi, dan paradigma perancangan. 
+									Ketiga paradigma ini saling melengkapi dan kait-mengait antara satu dengan yang lain. Secara umum ketiga paradigma tersebut 
+									(teori, abstraksi, perancangan) merupakan prinsip dasar dari masing-masing bidang ilmu yang diwakili matematika, ilmu alam, teknik).
+									</string>
+									
+	<string name="title_si">Sistem Informasi</string>
+	<string name="description_si">Program Studi Sistem Informasi merupakan salah satu cabang dari pohon ilmu Informatika dan Komputer. 
+									Program ini dikhususkan untuk menggarap sistem informasi dari berbagai sisi. 
+									Hal ini meliputi bagaimana data dapat disimpan dengan baik, bagaimana  informasi dapat diperoleh dengan baik, 
+									dan bagaimana supaya informasi yang dihasilkan dapat memberikan manfaat bagi yang menggunakannya, baik perusahaan, maupun perorangan.
+									</string>							
+	
+	<string name="title_tk">Teknik Komputer</string>
+	<string name="description_tk">Dilandasi kesadaran potensi pesatnya kemajuan teknologi elektronika, program studi Teknik Komputer jenjang D3 
+									merupakan bagian Jurusan Teknik Komputer yang mengemban amanat melatih dan menghasilkan ahli madya yang berkecimpung dalam lingkup 
+									teknik elektronika, microprocessor, instrumentasi kendali, dan telekomunikasi. Peran ahli madya bidang ini antara lain untuk menjembatani 
+									level perancang dan pengguna teknologi, melakukan supervisi proses produksi, melakukan instalasi-instalasi systems dan networking untuk berbagai
+									keperluan mulai dari perkantoran, housing, hotels, medis, sarana navigasi, hingga entertainment support.
+									</string>
+	
+	<string name="title_mi">Manajemen Informatika</string>
+	<string name="description_mi"> Jurusan/program studi Manajemen Informatika dengan jenjang D3 diharapkan dapat memberikan kontribusi untuk 
+									mewujudkan kebutuhan tenaga-tenaga siap pakai pada semua bidang TI. Dalam mewujudkan harapan tersebut maka jurusan/program studi 
+									Manajemen Informatika membuat kurikulum yang berbasis kompetensi.
+									</string>
+									
+	<string name="title_ka">Komputer Akutansi </string>
+	<string name="description_ka">Program studi Komputerisasi Akuntansi merupakan program studi yang berusia relatif muda dan dikembangkan berdasarkan kebutuhan tenaga kerja pada 
+									industri yang menginginkan adanya tenaga kerja yang mempunyai skill di bidang komputer serta memahami akuntansi sebagai bahasa bisnis.
+									</string>
+	
+	<string name="title_visi">Visi</string>
+	<string name="visi">STMIK AKAKOM mempunyai visi untuk menjadi perguruan tinggi unggulan dalam bidang teknologi informasi yang bertumpu pada nilai-nilai dan etika kehidupan yang baik, 
+							benar dan universal untuk mewujudkan peningkatan taraf hidup bangsa.
+							</string>
+	
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="nav_info">Info Kampus</string>
+    <string name="info_kampus">Youtube</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_jurusan">JurusanActivity</string>
+    <string name="hello_world" />
+</resources>
+
