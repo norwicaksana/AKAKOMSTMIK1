@@ -26,6 +26,7 @@
             android:id="@+id/nav_berita"
             android:icon="@drawable/ic_berita"
             android:title="Berita" />
+
     </group>
 
     <item android:title="Sosial Media">

@@ -1,10 +1,13 @@
 package egaakakom.gmail.com.akakomstmik;
 
 import android.net.Uri;
+import android.support.design.widget.CollapsingToolbarLayout;
 import android.support.design.widget.TabLayout;
+import android.support.v4.content.ContextCompat;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.widget.Toolbar;
 
 public class DetProfileActivity extends AppCompatActivity implements ProfileFragment.OnFragmentInteractionListener,VismisFragment.OnFragmentInteractionListener,PejabatFragment.OnFragmentInteractionListener{
 
@@ -47,4 +50,5 @@ public class DetProfileActivity extends AppCompatActivity implements ProfileFrag
     public void onFragmentInteraction(Uri uri) {
 
     }
+
 }

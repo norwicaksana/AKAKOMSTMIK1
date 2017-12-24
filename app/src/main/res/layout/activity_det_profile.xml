@@ -8,8 +8,6 @@
     android:orientation="vertical"
     tools:context="egaakakom.gmail.com.akakomstmik.DetProfileActivity">
 
-    
-
     <android.support.design.widget.TabLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
